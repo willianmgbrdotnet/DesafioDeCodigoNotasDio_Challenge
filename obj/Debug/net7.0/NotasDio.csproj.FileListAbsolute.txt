@@ -1,0 +1,15 @@
+C:\NotasDio\bin\Debug\net7.0\NotasDio.exe
+C:\NotasDio\bin\Debug\net7.0\NotasDio.deps.json
+C:\NotasDio\bin\Debug\net7.0\NotasDio.runtimeconfig.json
+C:\NotasDio\bin\Debug\net7.0\NotasDio.dll
+C:\NotasDio\bin\Debug\net7.0\NotasDio.pdb
+C:\NotasDio\obj\Debug\net7.0\NotasDio.csproj.AssemblyReference.cache
+C:\NotasDio\obj\Debug\net7.0\NotasDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\NotasDio\obj\Debug\net7.0\NotasDio.AssemblyInfoInputs.cache
+C:\NotasDio\obj\Debug\net7.0\NotasDio.AssemblyInfo.cs
+C:\NotasDio\obj\Debug\net7.0\NotasDio.csproj.CoreCompileInputs.cache
+C:\NotasDio\obj\Debug\net7.0\NotasDio.dll
+C:\NotasDio\obj\Debug\net7.0\refint\NotasDio.dll
+C:\NotasDio\obj\Debug\net7.0\NotasDio.pdb
+C:\NotasDio\obj\Debug\net7.0\NotasDio.genruntimeconfig.cache
+C:\NotasDio\obj\Debug\net7.0\ref\NotasDio.dll
